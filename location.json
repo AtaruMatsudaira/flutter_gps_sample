@@ -1,0 +1,14 @@
+{
+    "longitude": 139.6972394,
+    "latitude": 35.6855265,
+    "timestamp": 1703316981416,
+    "accuracy": 13.918999671936035,
+    "altitude": 70.20000457763672,
+    "altitude_accuracy": 1.232711672782898,
+    "floor": null,
+    "heading": 0.0,
+    "heading_accuracy": 0.0,
+    "speed": 0.0,
+    "speed_accuracy": 0.0,
+    "is_mocked": false
+}
